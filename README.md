@@ -1,2 +1,1 @@
-# vavada
-vavada template
+# test page
